@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native build outputs
+android/.gradle/
+android/app/build/
+android/build/
+ios/build/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated app packages
+*.apk
+*.aab
+*.ipa

@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "极简力训",
+    "slug": "fitness-training-diary",
+    "version": "3.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D0D0D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.fitness.trainingdiary"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D0D"
+      },
+      "package": "com.fitness.trainingdiary"
+    },
+    "plugins": []
+  }
+}
